@@ -1,4 +1,4 @@
-# This program generates a random number between 1 and 20, and asks the user to guess it in 6 tries. It also gives feedback to the user.
+# This program generates a random number between 1 and 20, and asks the user to guess it in 6 tries and it also gives feedback to the user.
 import random  # imports the random module
 
 guessesTaken = 0  # assign 0 to the variable guessesTaken
